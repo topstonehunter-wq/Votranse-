@@ -1,0 +1,5 @@
+-- Supabase Dashboard > Authentication > Providers:
+-- Enable Phone.
+-- For production SMS OTP, configure an SMS provider in Supabase Auth.
+-- The frontend is designed around phone-number authentication.
+-- Never put a Supabase service_role key in VITE_ variables or frontend code.
